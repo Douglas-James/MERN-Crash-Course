@@ -10,7 +10,7 @@ This project is built using the **MERN stack**:
 
 ## Frontend
 
-- **React.js**: Library for building user interfaces.
+- **React.js + Vite**: Library for building user interfaces.
 - Communicates with the backend via HTTP requests (usually using `fetch` or `axios`).
 
 ---
